@@ -1,4 +1,4 @@
-ECAD 
+ETAP Ontologies
 ===
 
 The aim of this top-level directory is to provide permanent URLs for resources (ontologies, vocabularies, etc.) created by the ETAP organization.
